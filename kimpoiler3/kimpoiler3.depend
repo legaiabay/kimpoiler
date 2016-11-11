@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1478825212 source:e:\project\opencv\kimpoiler3\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	"global.h"
+	"token.h"
+	"aturan.h"
+	"scanner.h"
+	"lexer.h"
+	"parser.h"
+
+1478586925 source:e:\project\opencv\kimpoiler3\backup-1.cpp
+
+1478825473 e:\project\opencv\kimpoiler3\token.h
+
+1478824746 e:\project\opencv\kimpoiler3\aturan.h
+
+1478825599 e:\project\opencv\kimpoiler3\global.h
+	<string>
+
+1478825212 e:\project\opencv\kimpoiler3\parser.h
+
+1478825010 e:\project\opencv\kimpoiler3\lexer.h
+
+1478825166 e:\project\opencv\kimpoiler3\scanner.h
+
